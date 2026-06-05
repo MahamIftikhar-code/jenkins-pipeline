@@ -1,4 +1,4 @@
-# Jenkins CI/CD Pipeline — AWS EC2
+# Jenkins CI/CD Pipeline : AWS EC2
 
 End-to-end CI/CD pipeline using Jenkins.
 Pulls code from GitHub, runs tests, builds Docker image, pushes to Docker Hub, deploys to AWS EC2.
