@@ -1,0 +1,11 @@
+{
+  "name": "jenkins-pipeline-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node -e \"const app = require('./app'); console.log('App loaded successfully'); process.exit(0);\""
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
